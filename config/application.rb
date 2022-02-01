@@ -18,5 +18,7 @@ module RailsTest
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+
+    config.hosts << "3000-ancientstraits-railstest-mptq174u9pe.ws-us29.gitpod.io"
   end
 end
